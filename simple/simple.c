@@ -76,4 +76,3 @@ godot_variant simple_get_data(godot_object *p_instance, void *p_method_data, voi
     return ret;
 }
 
-//parei em get_data
